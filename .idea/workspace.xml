@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0083b76-c872-40d0-b8b6-9e7b2c5efb45" name="Changes" comment="Bubble-Sort algorithm">
-      <change afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bubble-Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bubble-Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
         <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
@@ -111,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755024339468</updated>
       <workItem from="1755024355151" duration="1226000" />
+      <workItem from="1755025782484" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Bubble-Sort algorithm">
       <option name="closed" value="true" />
@@ -136,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755025150352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bubble-Sort algorithm">
+      <option name="closed" value="true" />
+      <created>1755025891686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755025891686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bubble-Sort algorithm">
+      <option name="closed" value="true" />
+      <created>1755025989102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755025989102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
