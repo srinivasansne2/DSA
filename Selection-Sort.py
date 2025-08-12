@@ -3,15 +3,14 @@ def selection_sort(arr):
     for i in range(n):
         # Assume the first element of the unsorted part is the smallest
         min_index = i
-        for j in range(i + 1, n):
+        for j in range(i+1, n):
             if arr[j] < arr[min_index]:
                 min_index = j
-        # Swap only if a smaller element was found
-        if min_index != i:
-            arr[i], arr[min_index] = arr[min_index], arr[i]
+        # Swap the found minimum with the first element of the unsorted part
+        arr[i], arr[min_index] = arr[min_index], arr[i]
     return arr
 
-
-# Example usage:
-data = [64, 25, 12, 22, 11]
-print("Sorted array:", selection_sort(data))
+# Example usage
+nums = [64, 25, 12, 22, 11]
+sorted_nums = selection_sort(nums)
+print("Sorted array:", sorted_nums)
