@@ -26,5 +26,4 @@ def merge_sort(arr):
             j += 1
             k += 1
     return arr
-
 print(merge_sort([9,7,8,6,4,5,3,1,2]))
